@@ -1,0 +1,926 @@
+[
+	{
+		"plu": 20510,
+		"nome": "abacate avocado",
+		"tipo": "fruta",
+		"img": "abacateAvocado.png"
+	},
+	{
+		"plu": 12720,
+		"nome": "abacate",
+		"tipo": "fruta",
+		"img": "abacate.jpg"
+	},
+	{
+		"plu": 5623,
+		"nome": "abacaxi hawai un.",
+		"tipo": "fruta",
+		"img": "abacaxiHavai.jpg"
+	},
+	{
+		"plu": 5500,
+		"nome": "abacaxi pérola un.",
+		"tipo": "fruta",
+		"img": "abacaxiPerola.jpeg"
+	},
+	{
+		"plu": 243768,
+		"nome": "abacaxi pérola fat. bj. kg.",
+		"tipo": "fruta",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 45520,
+		"nome": "abacaxi picado",
+		"tipo": "fruta",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 1984,
+		"nome": "ameixa importada",
+		"tipo": "fruta",
+		"img": "ameixaImportada.jpg"
+	},
+	{
+		"plu": 7658,
+		"nome": "ameixa nacional",
+		"tipo": "fruta",
+		"img": "ameixaNacional.jpeg"
+	},
+	{
+		"plu": 1991,
+		"nome": "banana maçã",
+		"tipo": "fruta",
+		"img": "bananaMaça.jpeg"
+	},
+	{
+		"plu": 27946,
+		"nome": "banana madura",
+		"tipo": "fruta",
+		"img": "bananaMadura.jpg"
+	},
+	{
+		"plu": 2004,
+		"nome": "banana nanica",
+		"tipo": "fruta",
+		"img": "bananaNanica.jpeg"
+	},
+	{
+		"plu": 2011,
+		"nome": "banana prata",
+		"tipo": "fruta",
+		"img": "bananaPrata.jpeg"
+	},
+	{
+		"plu": 15325,
+		"nome": "banana terra",
+		"tipo": "fruta",
+		"img": "bananaTerra.jpeg"
+	},
+	{
+		"plu": 14069,
+		"nome": "caqui chocolate",
+		"tipo": "fruta",
+		"img": "caquiChocolate.webp"
+	},
+	{
+		"plu": 7573,
+		"nome": "caqui fuyu",
+		"tipo": "fruta",
+		"img": "caquiFuyu.webp"
+	},
+	{
+		"plu": 7191,
+		"nome": "caqui rama forte",
+		"tipo": "fruta",
+		"img": "caquiRamaForte.jpg"
+	},
+	{
+		"plu": 56328,
+		"nome": "cereja importada",
+		"tipo": "fruta",
+		"img": "cerejaImportada.jpg"
+	},
+	{
+		"plu": 2035,
+		"nome": "coco seco",
+		"tipo": "fruta",
+		"img": "cocoSeco.png"
+	},
+	{
+		"plu": 1441,
+		"nome": "coco verde un.",
+		"tipo": "fruta",
+		"img": "cocoVerde.jpg"
+	},
+	{
+		"plu": 7818,
+		"nome": "figo roxo",
+		"tipo": "fruta",
+		"img": "figoRoxo.webp"
+	},
+	{
+		"plu": 8310,
+		"nome": "goiaba branca",
+		"tipo": "fruta",
+		"img": "goiabaBranca.jpg"
+	},
+	{
+		"plu": 9133,
+		"nome": "goiaba vermelha",
+		"tipo": "fruta",
+		"img": "goiabaVermelha.jpg"
+	},
+	{
+		"plu": 25863,
+		"nome": "kiwi importado",
+		"tipo": "fruta",
+		"img": "kiwiImportado.jpeg"
+	},
+	{
+		"plu": 2349,
+		"nome": "kiwi",
+		"tipo": "fruta",
+		"img": "kiwi.jpeg"
+	},
+	{
+		"plu": 46695,
+		"nome": "laranja bahia importada",
+		"tipo": "fruta",
+		"img": "laranjaBahiaImportada.jpg"
+	},
+	{
+		"plu": 7900,
+		"nome": "laranja bahia",
+		"tipo": "fruta",
+		"img": "laranjaBahia.webp"
+	},
+	{
+		"plu": 52351,
+		"nome": "laranja grape fruit",
+		"tipo": "fruta",
+		"img": "laranjaGrapeFruit.jpg"
+	},
+	{
+		"plu": 2080,
+		"nome": "laranja lima",
+		"tipo": "fruta",
+		"img": "laranjaLima.jpg"
+	},
+	{
+		"plu": 1540,
+		"nome": "laranja lima pérsia",
+		"tipo": "fruta",
+		"img": "laranjaLimaPersia.jpg"
+	},
+	{
+		"plu": 2097,
+		"nome": "laranja pera",
+		"tipo": "fruta",
+		"img": "laranjaPera.webp"
+	},
+	{
+		"plu": 54300,
+		"nome": "limão sisciliano",
+		"tipo": "fruta",
+		"img": "limaoSisciliano.jpeg"
+	},
+	{
+		"plu": 2127,
+		"nome": "limão taiti",
+		"tipo": "fruta",
+		"img": "limaoTaiti.webp"
+	},
+	{
+		"plu": 2387,
+		"nome": "maçã argentina",
+		"tipo": "fruta",
+		"img": "maçaArgentina.png"
+	},
+	{
+		"plu": 2363,
+		"nome": "maçã fuji",
+		"tipo": "fruta",
+		"img": "maçaFuji.webp"
+	},
+	{
+		"plu": 207087,
+		"nome": "maçã gala 1kg.",
+		"tipo": "fruta",
+		"img": "maçaGala.jpeg"
+	},
+	{
+		"plu": 234315,
+		"nome": "maçã gala importada",
+		"tipo": "fruta",
+		"img": "maçaGalaImportada.jpeg"
+	},
+	{
+		"plu": 2141,
+		"nome": "maçã gala",
+		"tipo": "fruta",
+		"img": "maçaGala.jpeg"
+	},
+	{
+		"plu": 1618,
+		"nome": "maçã granny smith",
+		"tipo": "fruta",
+		"img": "maçaGrannySmith.jpeg"
+	},
+	{
+		"plu": 88503,
+		"nome": "maçã importada band.",
+		"tipo": "fruta",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 211666,
+		"nome": "maçã lunáticos 1kg.",
+		"tipo": "fruta",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 52696,
+		"nome": "maçã red importada",
+		"tipo": "fruta",
+		"img": "maçaRedImportada.jpg"
+	},
+	{
+		"plu": 2172,
+		"nome": "mamão formosa",
+		"tipo": "fruta",
+		"img": "mamaoFormosa.jpeg"
+	},
+	{
+		"plu": 2189,
+		"nome": "mamão papaia",
+		"tipo": "fruta",
+		"img": "mamaoPapaia.webp"
+	},
+	{
+		"plu": 2196,
+		"nome": "manga haden",
+		"tipo": "fruta",
+		"img": "mangaHaden.webp"
+	},
+	{
+		"plu": 8792,
+		"nome": "manga espada bordon",
+		"tipo": "fruta",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 14977,
+		"nome": "manga espada",
+		"tipo": "fruta",
+		"img": "mangaEspada.webp"
+	},
+	{
+		"plu": 46718,
+		"nome": "manga espada vermelha",
+		"tipo": "fruta",
+		"img": "mangaEspadaVermelha.webp"
+	},
+	{
+		"plu": 6125,
+		"nome": "manga ouro",
+		"tipo": "fruta",
+		"img": "mangaOuro.webp"
+	},
+	{
+		"plu": 6118,
+		"nome": "manga palmer",
+		"tipo": "fruta",
+		"img": "mangaPalmer.jpg"
+	},
+	{
+		"plu": 45421,
+		"nome": "manga picada",
+		"tipo": "fruta",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 25898,
+		"nome": "manga rosa",
+		"tipo": "fruta",
+		"img": "mangaRosa.jpg"
+	},
+	{
+		"plu": 15677,
+		"nome": "manga tommy",
+		"tipo": "fruta",
+		"img": "mangaTommy.jpeg"
+	},
+	{
+		"plu": 57387,
+		"nome": "mangostin",
+		"tipo": "fruta",
+		"img": "mangostin.jpeg"
+	},
+	{
+		"plu": 2134,
+		"nome": "maracujá azedo",
+		"tipo": "fruta",
+		"img": "maracujaAzedo.jpeg"
+	},
+	{
+		"plu": 45469,
+		"nome": "maracujá azedo polpa",
+		"tipo": "fruta",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 1663,
+		"nome": "maracujá doce",
+		"tipo": "fruta",
+		"img": "maracujaDoce.webp"
+	},
+	{
+		"plu": 52849,
+		"nome": "melância baby",
+		"tipo": "fruta",
+		"img": "melanciaBaby.webp"
+	},
+	{
+		"plu": 52856,
+		"nome": "melância baby rajada",
+		"tipo": "fruta",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 2219,
+		"nome": "melância",
+		"tipo": "fruta",
+		"img": "melancia.webp"
+	},
+	{
+		"plu": 45506,
+		"nome": "melância picada",
+		"tipo": "fruta",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 13888,
+		"nome": "melância un.",
+		"tipo": "fruta",
+		"img": "melancia.webp"
+	},
+	{
+		"plu": 11082,
+		"nome": "melão amarelo",
+		"tipo": "fruta",
+		"img": "melaoAmarelo.jpeg"
+	},
+	{
+		"plu": 53754,
+		"nome": "melão cepi",
+		"tipo": "fruta",
+		"img": "melaoCepi.png"
+	},
+	{
+		"plu": 39581,
+		"nome": "melão gália",
+		"tipo": "fruta",
+		"img": "melaoGalia.jpg"
+	},
+	{
+		"plu": 30496,
+		"nome": "melão orange",
+		"tipo": "fruta",
+		"img": "melaoOrange.webp"
+	},
+	{
+		"plu": 42697,
+		"nome": "melão pele de sapo",
+		"tipo": "fruta",
+		"img": "melaoPeleSapo.jpg"
+	},
+	{
+		"plu": 45445,
+		"nome": "melão picado",
+		"tipo": "fruta",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 32797,
+		"nome": "melão rei",
+		"tipo": "fruta",
+		"img": "melaoRei.webp"
+	},
+	{
+		"plu": 27212,
+		"nome": "mexerica carioca",
+		"tipo": "fruta",
+		"img": "mexericaCarioca.webp"
+	},
+	{
+		"plu": 7948,
+		"nome": "mexerica cravo",
+		"tipo": "fruta",
+		"img": "mexericaCravo.jpg"
+	},
+	{
+		"plu": 42451,
+		"nome": "mexerica dekopon",
+		"tipo": "fruta",
+		"img": "mexericaDekopon.webp"
+	},
+	{
+		"plu": 80255,
+		"nome": "mexerica importada",
+		"tipo": "fruta",
+		"img": "mexericaImportada.webp"
+	},
+	{
+		"plu": 14243,
+		"nome": "mexerica murcote",
+		"tipo": "fruta",
+		"img": "mexericaMurcote.jpg"
+	},
+	{
+		"plu": 7924,
+		"nome": "mexerica ponkan",
+		"tipo": "fruta",
+		"img": "mexericaPonkan.jpeg"
+	},
+	{
+		"plu": 6811,
+		"nome": "mexerica verona",
+		"tipo": "fruta",
+		"img": "mexericaVerona.jpeg"
+	},
+	{
+		"plu": 10764,
+		"nome": "nectarina importada",
+		"tipo": "fruta",
+		"img": "nectarinaImportada.jpg"
+	},
+	{
+		"plu": 1786,
+		"nome": "nectarina",
+		"tipo": "fruta",
+		"img": "nectarina.jpg"
+	},
+	{
+		"plu": 91336,
+		"nome": "noni",
+		"tipo": "fruta",
+		"img": "noni.jpg"
+	},
+	{
+		"plu": 52016,
+		"nome": "pera danjou",
+		"tipo": "fruta",
+		"img": "peraDanjou.jpg"
+	},
+	{
+		"plu": 243312,
+		"nome": "pera forelle",
+		"tipo": "fruta",
+		"img": "peraForelle.jpg"
+	},
+	{
+		"plu": 52818,
+		"nome": "pera packham",
+		"tipo": "fruta",
+		"img": "peraPackham.jpg"
+	},
+	{
+		"plu": 5517,
+		"nome": "pera portuguesa",
+		"tipo": "fruta",
+		"img": "peraPortuguesa.jpg"
+	},
+	{
+		"plu": 29698,
+		"nome": "pera red",
+		"tipo": "fruta",
+		"img": "peraRed.jpg"
+	},
+	{
+		"plu": 161,
+		"nome": "pera willians",
+		"tipo": "fruta",
+		"img": "peraWillians.jpg"
+	},
+	{
+		"plu": 12577,
+		"nome": "pêssego importado",
+		"tipo": "fruta",
+		"img": "pessegoImportado.webp"
+	},
+	{
+		"plu": 8822,
+		"nome": "pêssego",
+		"tipo": "fruta",
+		"img": "pessego.jpg"
+	},
+	{
+		"plu": 19682,
+		"nome": "atemoia",
+		"tipo": "fruta",
+		"img": "atemoia.jpeg"
+	},
+	{
+		"plu": 52337,
+		"nome": "pitaya",
+		"tipo": "fruta",
+		"img": "pitaya.webp"
+	},
+	{
+		"plu": 10238,
+		"nome": "romã",
+		"tipo": "fruta",
+		"img": "roma.webp"
+	},
+	{
+		"plu": 15790,
+		"nome": "uva brasil",
+		"tipo": "fruta",
+		"img": "uvaBrasil.jpg"
+	},
+	{
+		"plu": 50197,
+		"nome": "uva crimson",
+		"tipo": "fruta",
+		"img": "uvaCrimson.jpg"
+	},
+	{
+		"plu": 2301,
+		"nome": "uva itália",
+		"tipo": "fruta",
+		"img": "uvaItalia.jpeg"
+	},
+	{
+		"plu": 13673,
+		"nome": "uva niagara",
+		"tipo": "fruta",
+		"img": "uvaNiagara.jpeg"
+	},
+	{
+		"plu": 8716,
+		"nome": "uva rubi",
+		"tipo": "fruta",
+		"img": "uvaRubi.webp"
+	},
+	{
+		"plu": 6521,
+		"nome": "uva thompson chilena",
+		"tipo": "fruta",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 407519,
+		"nome": "maçã t. mônica 1kg.",
+		"tipo": "fruta",
+		"img": "maçaTurmaMonica.jpg"
+	},
+	{
+		"plu": 243505,
+		"nome": "carambola/Ramiro 300g.",
+		"tipo": "fruta",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 242176,
+		"nome": "morango/Safra Nova 200g. cumb.",
+		"tipo": "fruta",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 2639,
+		"nome": "abóbora italiana",
+		"tipo": "legume",
+		"img": "abobora.jpg"
+	},
+	{
+		"plu": 1946,
+		"nome": "abóbora japonesa",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 1992,
+		"nome": "abóbora moranga",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 1939,
+		"nome": "abóbora paulista",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 1953,
+		"nome": "abóbora seca",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 66396,
+		"nome": "alho",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 2653,
+		"nome": "batata doce branca",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 7528,
+		"nome": "batata doce rosada",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 2158,
+		"nome": "batata escovada",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 7511,
+		"nome": "batata lavada",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 13444,
+		"nome": "batata yacon",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 13819,
+		"nome": "berinjela",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 13765,
+		"nome": "beterraba",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 2677,
+		"nome": "cara",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 7696,
+		"nome": "cebola argentina",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 8853,
+		"nome": "cebola nacional",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 3773,
+		"nome": "cebola pequena",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 48866,
+		"nome": "cebola roxa",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 13772,
+		"nome": "cenoura",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 2813,
+		"nome": "chuchu",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 7702,
+		"nome": "gengibre",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 2707,
+		"nome": "inhame",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 2691,
+		"nome": "jiló",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 2714,
+		"nome": "mandioca",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 2721,
+		"nome": "mandioquinha",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 2837,
+		"nome": "maxixe",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 1762,
+		"nome": "milho verde",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 8068,
+		"nome": "pepino caipira",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 2738,
+		"nome": "pepino comum",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 8082,
+		"nome": "pepino japonês",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 2745,
+		"nome": "pimenta americana",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 14014,
+		"nome": "pimenta cambuci",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 25430,
+		"nome": "pimenta malagueta",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 52573,
+		"nome": "pimenta verde",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 8914,
+		"nome": "pimenta vermelha",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 5142,
+		"nome": "pimentão amarelo",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 32353,
+		"nome": "pimentão misto",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 53464,
+		"nome": "pimentão verde fat.",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 2752,
+		"nome": "pimentão verde",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 2769,
+		"nome": "pimentão vermelho",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 1816,
+		"nome": "pinhão",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 1816,
+		"nome": "quiabo",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 5609,
+		"nome": "tomate molho",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 49535,
+		"nome": "tomate netuno",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 13758,
+		"nome": "tomate salada",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 15257,
+		"nome": "vagem macarrão",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 25812,
+		"nome": "ingr. yakisoba",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 213371,
+		"nome": "mix abóbora jap/quiabo",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 213375,
+		"nome": "mix alho poró picado",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 49177,
+		"nome": "mix beterraba/cenoura",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 213342,
+		"nome": "mix chuchu/cenou/beterr.",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 213345,
+		"nome": "mix chuchu/mandioquinha",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 7801,
+		"nome": "mix de legumes",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 32292,
+		"nome": "sopão",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 46343,
+		"nome": "vinagrete",
+		"tipo": "legume",
+		"img": "noImage.png"
+	},
+	{
+		"plu": 242171,
+		"nome": "safra nova/tomatinho 180g.",
+		"tipo": "legume",
+		"img": "noImage.png"
+	}
+]
