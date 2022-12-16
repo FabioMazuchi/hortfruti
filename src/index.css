@@ -11,7 +11,7 @@ body {
 header {
   display: flex;
   justify-content: center;
-  padding: 8px 0;
+  padding: 12px 0;
 }
 
 header img {
@@ -27,10 +27,11 @@ nav ul li {
   margin-right: 12px;
   text-transform: capitalize;
   background-color: black;
-  padding: 3px;
-  width: 75px;
+  padding: 4px;
+  width: 80px;
+  font-size: 16px;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 12px;
 }
 
 a {
@@ -40,8 +41,7 @@ a {
 }
 
 .home_section {
-  margin-top: 120px;
-  min-height: 400px;
+  margin-top: 70px;
   padding: 0 5%;
 }
 
@@ -54,34 +54,34 @@ a {
   font-size: 26px;
 }
 
-.frutas_main {
+.content {
   margin-top: 20px;
-  min-height: 400px;
   padding: 0 2%;
 }
 
-.frutas_main h1 {
+.content h1 {
   text-align: center;
   font-size: 35px;
   color: rgb(64, 73, 73);
 }
 
-.frutas_main span {
+.content span {
   font-size: 25px;
 }
 
-.frutas_main section {
+.content section {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   margin-top: 20px;
+  padding-bottom: 70px;
 }
 
 .card {
   background-color: white;
   align-items: center;
-  width: 46%;
-  padding: 3px;
+  width: 48%;
+  padding: 3px 5px;
   display: flex;
   flex-direction: column;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
@@ -90,13 +90,24 @@ a {
 
 .card h3 {
   text-transform: capitalize;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: lighter;
 }
 
 .card img {
-  height: 40px;
+  height: 60px;
   width: 90%;
   margin-bottom: 3px;
+}
+
+footer {
+  text-align: center;
+  width: 100%;
+  padding: 12px 0;
+  bottom: 0;
+  position: fixed;
+  background-color: black;
+  color: white;
+  font-size: 19px;
 }
 

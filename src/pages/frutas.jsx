@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import Card from "../components/card";
+import Footer from "../components/footer";
 import Header from "../components/header";
 import { getFrutas } from "../helpers";
 
@@ -12,7 +13,7 @@ function Frutas() {
 	return (
 		<>
 			<Header />
-			<main className="frutas_main">
+			<main className="content">
 				<h1><span>🍍 </span>Frutas <span>🍉</span></h1>
 				<section>
 					{frutas.map(({ nome, img, plu, tipo }) => (
@@ -20,6 +21,7 @@ function Frutas() {
 					))}
 				</section>
 			</main>
+			<Footer />
 		</>
 	)
 }

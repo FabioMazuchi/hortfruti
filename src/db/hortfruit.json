@@ -597,211 +597,211 @@
 		"plu": 1946,
 		"nome": "abóbora japonesa",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "aboboraJaponesa.jpeg"
 	},
 	{
 		"plu": 1992,
 		"nome": "abóbora moranga",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "aboboraMoranga.webp"
 	},
 	{
 		"plu": 1939,
 		"nome": "abóbora paulista",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "aboboraPaulista.jpg"
 	},
 	{
 		"plu": 1953,
 		"nome": "abóbora seca",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "aboboraSeca.jpg"
 	},
 	{
 		"plu": 66396,
 		"nome": "alho",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "alho.png"
 	},
 	{
 		"plu": 2653,
 		"nome": "batata doce branca",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "batataDoceBranca.jpg"
 	},
 	{
 		"plu": 7528,
 		"nome": "batata doce rosada",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "batataDoceRosada.jpg"
 	},
 	{
 		"plu": 2158,
 		"nome": "batata escovada",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "batataEscovada.jpeg"
 	},
 	{
 		"plu": 7511,
 		"nome": "batata lavada",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "batataLavada.jpeg"
 	},
 	{
 		"plu": 13444,
 		"nome": "batata yacon",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "batataYacon.jpeg"
 	},
 	{
 		"plu": 13819,
 		"nome": "berinjela",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "berinjela.jpg"
 	},
 	{
 		"plu": 13765,
 		"nome": "beterraba",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "beterraba.jpeg"
 	},
 	{
 		"plu": 2677,
-		"nome": "cara",
+		"nome": "cará",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "cara.webp"
 	},
 	{
 		"plu": 7696,
 		"nome": "cebola argentina",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "cebolaArgentina.jpg"
 	},
 	{
 		"plu": 8853,
 		"nome": "cebola nacional",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "cebolaNacional.jpg"
 	},
 	{
 		"plu": 3773,
 		"nome": "cebola pequena",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "cebolaPequena.jpg"
 	},
 	{
 		"plu": 48866,
 		"nome": "cebola roxa",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "cebolaRoxa.jpeg"
 	},
 	{
 		"plu": 13772,
 		"nome": "cenoura",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "cenoura.jpg"
 	},
 	{
 		"plu": 2813,
 		"nome": "chuchu",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "chuchu.jpg"
 	},
 	{
 		"plu": 7702,
 		"nome": "gengibre",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "gengibre.jpeg"
 	},
 	{
 		"plu": 2707,
 		"nome": "inhame",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "inhame.jpg"
 	},
 	{
 		"plu": 2691,
 		"nome": "jiló",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "jilo.jpg"
 	},
 	{
 		"plu": 2714,
 		"nome": "mandioca",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "mandioca.jpg"
 	},
 	{
 		"plu": 2721,
 		"nome": "mandioquinha",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "mandioquinha.jpeg"
 	},
 	{
 		"plu": 2837,
 		"nome": "maxixe",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "maxixe.jpg"
 	},
 	{
 		"plu": 1762,
 		"nome": "milho verde",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "milhoVerde.jpg"
 	},
 	{
 		"plu": 8068,
 		"nome": "pepino caipira",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "pepinoCaipira.webp"
 	},
 	{
 		"plu": 2738,
 		"nome": "pepino comum",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "pepinoComum.jpg"
 	},
 	{
 		"plu": 8082,
 		"nome": "pepino japonês",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "pepinoJapones.webp"
 	},
 	{
 		"plu": 2745,
 		"nome": "pimenta americana",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "pimentaAmericana.jpeg"
 	},
 	{
 		"plu": 14014,
 		"nome": "pimenta cambuci",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "pimentaCambuci.jpg"
 	},
 	{
 		"plu": 25430,
 		"nome": "pimenta malagueta",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "pimentaMalagueta.jpg"
 	},
 	{
 		"plu": 52573,
 		"nome": "pimenta verde",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "pimentaVerde.jpg"
 	},
 	{
 		"plu": 8914,
 		"nome": "pimenta vermelha",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "pimentaVermelha.jpg"
 	},
 	{
 		"plu": 5142,
 		"nome": "pimentão amarelo",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "pimentaoAmarelo.jpeg"
 	},
 	{
 		"plu": 32353,
@@ -819,49 +819,49 @@
 		"plu": 2752,
 		"nome": "pimentão verde",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "pimentaoVerde.jpeg"
 	},
 	{
 		"plu": 2769,
 		"nome": "pimentão vermelho",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "pimentaoVermelho.jpeg"
 	},
 	{
 		"plu": 1816,
 		"nome": "pinhão",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "pinhao.jpg"
 	},
 	{
 		"plu": 1816,
 		"nome": "quiabo",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "quiabo.jpeg"
 	},
 	{
 		"plu": 5609,
 		"nome": "tomate molho",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "tomateMolho.png"
 	},
 	{
 		"plu": 49535,
 		"nome": "tomate netuno",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "tomateNetuno.webp"
 	},
 	{
 		"plu": 13758,
 		"nome": "tomate salada",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "tomateSalada.webp"
 	},
 	{
 		"plu": 15257,
 		"nome": "vagem macarrão",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"img": "vagemMacarrao.jpg"
 	},
 	{
 		"plu": 25812,
