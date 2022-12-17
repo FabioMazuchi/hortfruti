@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hortfruti/static/css/main.3642e582.css",
+    "main.js": "/hortfruti/static/js/main.fb8c11ff.js",
+    "index.html": "/hortfruti/index.html",
+    "main.3642e582.css.map": "/hortfruti/static/css/main.3642e582.css.map",
+    "main.fb8c11ff.js.map": "/hortfruti/static/js/main.fb8c11ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3642e582.css",
+    "static/js/main.fb8c11ff.js"
+  ]
+}
