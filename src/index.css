@@ -5,18 +5,14 @@
 }
 
 body {
-  background-color: rgb(233, 243, 248);
+  background-color: #F0F8EA;
 }
 
 header {
-  background-color: rgb(39, 39, 38);
+  background-color: #F0F66E;
   display: flex;
   justify-content: center;
   padding: 12px 0;
-}
-
-header img {
-  max-width: 60px;
 }
 
 nav ul {
@@ -25,20 +21,21 @@ nav ul {
 }
 
 nav ul li {
-  margin-right: 12px;
+  margin-right: 15px;
   text-transform: capitalize;
-  font-size: 19px;
+  font-size: 18px;
   border-radius: 12px;
 }
 
 a {
   text-decoration: none;
-  color: white;
+  color: #9D9C62;
 }
 
 .home_section {
   margin-top: 70px;
   padding: 0 5%;
+  color: #9D9C62;
 }
 
 .home_section h1 {
@@ -55,10 +52,37 @@ a {
   padding: 0 2%;
 }
 
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin:0 auto 10px;
+  width: 45%;
+}
+
+form input {
+  width: 100%;
+  border: 0;
+  font-size: 14px;
+  border-bottom: 1px solid #9D9C62;
+  color: #9D9C62;
+  margin-bottom: 4px;
+  background-color: transparent;
+  padding: 2px;
+}
+
+form input:focus {
+  outline: none;
+}
+
+form p {
+  color: #9D9C62;
+}
+
 .content h1 {
   text-align: center;
   font-size: 35px;
-  color: rgb(64, 73, 73);
+  color: #9D9C62;
 }
 
 .content span {
@@ -80,8 +104,9 @@ a {
   padding: 3px 5px;
   display: flex;
   flex-direction: column;
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   margin-bottom: 10px;
+  color: #25161B;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
 }
 
 .card h3 {
@@ -102,43 +127,10 @@ footer {
   padding: 12px 0;
   bottom: 0;
   position: fixed;
-  background-color: black;
-  color: white;
+  background-color: #F0F66E;
+  color: #9D9C62;
   font-size: 19px;
 }
 
-form {
-  display: flex;
-  justify-content: center;
-  margin:0 auto 10px;
-  width: 60%;
-}
 
-form input {
-  width: 100%;
-  border: 0;
-  padding: 5px 8px;
-  text-align: center;
-  border-radius: 12px;
-  font-size: 14px;
-  background-color: rgb(85, 93, 93);
-  color: rgb(242, 234, 234);
-}
-
-form input::placeholder {
-  color: rgb(242, 234, 234);
-}
-
-form input:focus {
-  outline: none;
-}
-
-form button {
-  background-color: rgb(87, 41, 131);
-  border: none;
-  padding: 0 6px;
-  border-radius: 12px;
-  color: white;
-  cursor: pointer;
-}
 

@@ -16,13 +16,14 @@ function Legumes() {
 		const filterLegumes = () => setLegumes(legumes.filter(({nome: n}) => n.includes(nome)))
 		setLegumes(getLegumes())
 		if (nome !== '') filterLegumes();
-	}, [nome, legumes])
+	}, [nome])
 	return (
 		<>
 			<Header />
 			<main className="content">
 			<form>
-					<input value={nome} onChange={handleChange} type="text" placeholder="Digite aqui o nome do legume" />
+					<input value={nome} onChange={handleChange} type="text" />
+					<p>🔎 Pesquisar legume...</p>
 				</form>
 				<h1><span>🍅 </span>Legumes <span>🥕</span></h1>
 				<section>

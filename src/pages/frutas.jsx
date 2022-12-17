@@ -13,17 +13,18 @@ function Frutas() {
 	}
 
 	useEffect(() => {
-		const filterFrutas = () => setFrutas(frutas.filter(({nome: n}) => n.includes(nome)))
 		setFrutas(getFrutas())
+		const filterFrutas = () => setFrutas(frutas.filter(({nome: n}) => n.includes(nome)))
 		if (nome !== '') filterFrutas();
-	}, [nome, frutas])
+	}, [nome])
 	
 	return (
 		<>
 			<Header />
 			<main className="content">
 				<form>
-					<input value={nome} onChange={handleChange} type="text" placeholder="Digite aqui o nome da fruta" />
+					<input value={nome} onChange={handleChange} type="text" />
+					<p>🔎 Pesquisar fruta...</p>
 				</form>
 				<h1><span>🍍 </span>Frutas <span>🍉</span></h1>
 				<section>

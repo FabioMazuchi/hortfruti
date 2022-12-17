@@ -7,7 +7,7 @@ function Home() {
 			<Header />
 			<section className="home_section">
 				<h1>Boas vindas ao Hortfruti!</h1>
-				<p>O seu app onde é possível listar verduras, legumes e fazer uma pesquisa pelo nome.</p>
+				<p>O app. onde é possível listar verduras, legumes e pesquisá-los pelo nome.</p>
 			</section>
 			<Footer />
 		</>
