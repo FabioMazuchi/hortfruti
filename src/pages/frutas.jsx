@@ -28,8 +28,8 @@ function Frutas() {
 				</form>
 				<h1><span>🍍 </span>Frutas <span>🍉</span></h1>
 				<section>
-					{frutas.map(({ nome, img, plu, tipo }) => (
-						<Card nome={nome} img={img} plu={plu} tipo={tipo} />
+					{frutas.map(({ nome, url, plu }) => (
+						<Card nome={nome} url={url} plu={plu} />
 					))}
 				</section>
 			</main>

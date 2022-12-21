@@ -3,924 +3,924 @@
 		"plu": 20510,
 		"nome": "abacate avocado",
 		"tipo": "fruta",
-		"img": "abacateAvocado.png"
+		"url": "http://static3.tcdn.com.br/img/img_prod/450860/mudas_de_abacate_avocado_enxertadas_832_1_20190611093609.jpg"
 	},
 	{
 		"plu": 12720,
 		"nome": "abacate",
 		"tipo": "fruta",
-		"img": "abacate.jpg"
+		"url": "https://i1.pickpik.com/photos/543/156/947/avocado-salad-fresh-food-preview.jpg"
 	},
 	{
 		"plu": 5623,
 		"nome": "abacaxi hawai un.",
 		"tipo": "fruta",
-		"img": "abacaxiHavai.jpg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStZsUHf_COfHFu9IkC7loE3WCYwXJ-0KI2NQ&usqp=CAU"
 	},
 	{
 		"plu": 5500,
 		"nome": "abacaxi pérola un.",
 		"tipo": "fruta",
-		"img": "abacaxiPerola.jpeg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStZsUHf_COfHFu9IkC7loE3WCYwXJ-0KI2NQ&usqp=CAU"
 	},
 	{
 		"plu": 243768,
 		"nome": "abacaxi pérola fat. bj. kg.",
 		"tipo": "fruta",
-		"img": "noImage.png"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Image_not_available.png"
 	},
 	{
 		"plu": 45520,
 		"nome": "abacaxi picado",
 		"tipo": "fruta",
-		"img": "noImage.png"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Image_not_available.png"
 	},
 	{
 		"plu": 1984,
 		"nome": "ameixa importada",
 		"tipo": "fruta",
-		"img": "ameixaImportada.jpg"
+		"url": "https://live.staticflickr.com/65535/50193394813_801cb3142e_b.jpg"
 	},
 	{
 		"plu": 7658,
 		"nome": "ameixa nacional",
 		"tipo": "fruta",
-		"img": "ameixaNacional.jpeg"
+		"url": "https://live.staticflickr.com/65535/50193394813_801cb3142e_b.jpg"
 	},
 	{
 		"plu": 1991,
 		"nome": "banana maçã",
 		"tipo": "fruta",
-		"img": "bananaMaça.jpeg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAdPRv7Tlb07EFtu019ibawDY-SPnzOz0Zpw&usqp=CAU"
 	},
 	{
 		"plu": 27946,
 		"nome": "banana madura",
 		"tipo": "fruta",
-		"img": "bananaMadura.jpg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAdPRv7Tlb07EFtu019ibawDY-SPnzOz0Zpw&usqp=CAU"
 	},
 	{
 		"plu": 2004,
 		"nome": "banana nanica",
 		"tipo": "fruta",
-		"img": "bananaNanica.jpeg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Cavendish_Banana_DS.jpg"
 	},
 	{
 		"plu": 2011,
 		"nome": "banana prata",
 		"tipo": "fruta",
-		"img": "bananaPrata.jpeg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Cavendish_Banana_DS.jpg"
 	},
 	{
 		"plu": 15325,
 		"nome": "banana terra",
 		"tipo": "fruta",
-		"img": "bananaTerra.jpeg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Cavendish_Banana_DS.jpg"
 	},
 	{
 		"plu": 14069,
 		"nome": "caqui chocolate",
 		"tipo": "fruta",
-		"img": "caquiChocolate.webp"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Caqui_chocolate_em_fundo_preto_03.jpg"
 	},
 	{
 		"plu": 7573,
 		"nome": "caqui fuyu",
 		"tipo": "fruta",
-		"img": "caquiFuyu.webp"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-cV4-8eNqQQAyV3fsnE-NeMWaWxZeaaqPs578uLoMbsJoiREfvd58wexMvQusASzAKU&usqp=CAU"
 	},
 	{
 		"plu": 7191,
 		"nome": "caqui rama forte",
 		"tipo": "fruta",
-		"img": "caquiRamaForte.jpg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-cV4-8eNqQQAyV3fsnE-NeMWaWxZeaaqPs578uLoMbsJoiREfvd58wexMvQusASzAKU&usqp=CAU"
 	},
 	{
 		"plu": 56328,
 		"nome": "cereja importada",
 		"tipo": "fruta",
-		"img": "cerejaImportada.jpg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3l1Xckw1nux0cmFnHVw2hH-jG7Ia0a-egaQ&usqp=CAU"
 	},
 	{
 		"plu": 2035,
 		"nome": "coco seco",
 		"tipo": "fruta",
-		"img": "cocoSeco.png"
+		"url": "https://i1.pickpik.com/photos/225/194/511/coconut-shell-coconut-oil-fruit-preview.jpg"
 	},
 	{
 		"plu": 1441,
 		"nome": "coco verde un.",
 		"tipo": "fruta",
-		"img": "cocoVerde.jpg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBBlcXBDKTb2AflBU8AksQ5rifWQu85Qr3HyEUPRsGOMSN4mposSxrQY1p8FS-LouDofc&usqp=CAU"
 	},
 	{
 		"plu": 7818,
 		"nome": "figo roxo",
 		"tipo": "fruta",
-		"img": "figoRoxo.webp"
+		"url": "https://i0.hippopx.com/photos/689/332/943/fig-fruit-nutrition-fresh-preview.jpg"
 	},
 	{
 		"plu": 8310,
 		"nome": "goiaba branca",
 		"tipo": "fruta",
-		"img": "goiabaBranca.jpg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGV7SLypONcATA2QSvhXbHi_LVczcdjoiESV-ShJ8M2SljPyDH7yMdBLPcaVMbhtaaQgc&usqp=CAU"
 	},
 	{
 		"plu": 9133,
 		"nome": "goiaba vermelha",
 		"tipo": "fruta",
-		"img": "goiabaVermelha.jpg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Goiaba%2C_Guaiaba%2C_Guava_%28270435530%29.jpg"
 	},
 	{
 		"plu": 25863,
 		"nome": "kiwi importado",
 		"tipo": "fruta",
-		"img": "kiwiImportado.jpeg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kiwi_aka.jpg"
 	},
 	{
 		"plu": 2349,
 		"nome": "kiwi",
 		"tipo": "fruta",
-		"img": "kiwi.jpeg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kiwi_aka.jpg"
 	},
 	{
 		"plu": 46695,
 		"nome": "laranja bahia importada",
 		"tipo": "fruta",
-		"img": "laranjaBahiaImportada.jpg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Navel_Oranges.JPG"
 	},
 	{
 		"plu": 7900,
 		"nome": "laranja bahia",
 		"tipo": "fruta",
-		"img": "laranjaBahia.webp"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Navel_Oranges.JPG"
 	},
 	{
 		"plu": 52351,
 		"nome": "laranja grape fruit",
 		"tipo": "fruta",
-		"img": "laranjaGrapeFruit.jpg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI4RIEXQjqVnAUsls4nnwBePcNWfrjkzQpnA&usqp=CAU"
 	},
 	{
 		"plu": 2080,
 		"nome": "laranja lima",
 		"tipo": "fruta",
-		"img": "laranjaLima.jpg"
+		"url": "https://i0.hippopx.com/photos/43/298/445/orange-fruit-food-fresh-preview.jpg"
 	},
 	{
 		"plu": 1540,
 		"nome": "laranja lima pérsia",
 		"tipo": "fruta",
-		"img": "laranjaLimaPersia.jpg"
+		"url": "https://i0.hippopx.com/photos/43/298/445/orange-fruit-food-fresh-preview.jpg"
 	},
 	{
 		"plu": 2097,
 		"nome": "laranja pera",
 		"tipo": "fruta",
-		"img": "laranjaPera.webp"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Navel_Oranges.JPG"
 	},
 	{
 		"plu": 54300,
 		"nome": "limão sisciliano",
 		"tipo": "fruta",
-		"img": "limaoSisciliano.jpeg"
+		"url": "http://static3.tcdn.com.br/img/img_prod/450860/muda_de_limao_siciliano_enxertadas_542_1_20190611093557.jpg"
 	},
 	{
 		"plu": 2127,
 		"nome": "limão taiti",
 		"tipo": "fruta",
-		"img": "limaoTaiti.webp"
+		"url": "https://a-static.mlcdn.com.br/1500x1500/limao-taiti/fruitexpress/7d56f96ccb0311ebb1524201ac18500e/b80bcf573e0e4ecfce22cb8e526c1a40.jpeg"
 	},
 	{
 		"plu": 2387,
 		"nome": "maçã argentina",
 		"tipo": "fruta",
-		"img": "maçaArgentina.png"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbWsbpOwIqFHB00WLTLpncPptWfdbqhyznvg&usqp=CAU"
 	},
 	{
 		"plu": 2363,
 		"nome": "maçã fuji",
 		"tipo": "fruta",
-		"img": "maçaFuji.webp"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbWsbpOwIqFHB00WLTLpncPptWfdbqhyznvg&usqp=CAU"
 	},
 	{
 		"plu": 207087,
 		"nome": "maçã gala 1kg.",
 		"tipo": "fruta",
-		"img": "maçaGala.jpeg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Image_not_available.png"
 	},
 	{
 		"plu": 234315,
 		"nome": "maçã gala importada",
 		"tipo": "fruta",
-		"img": "maçaGalaImportada.jpeg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbWsbpOwIqFHB00WLTLpncPptWfdbqhyznvg&usqp=CAU"
 	},
 	{
 		"plu": 2141,
 		"nome": "maçã gala",
 		"tipo": "fruta",
-		"img": "maçaGala.jpeg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbWsbpOwIqFHB00WLTLpncPptWfdbqhyznvg&usqp=CAU"
 	},
 	{
 		"plu": 1618,
 		"nome": "maçã granny smith",
 		"tipo": "fruta",
-		"img": "maçaGrannySmith.jpeg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL9s07aWxen_pBU9Ra_wDkTtq39kQe2HVhOw&usqp=CAU"
 	},
 	{
 		"plu": 88503,
 		"nome": "maçã importada band.",
 		"tipo": "fruta",
-		"img": "noImage.png"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Image_not_available.png"
 	},
 	{
 		"plu": 211666,
 		"nome": "maçã lunáticos 1kg.",
 		"tipo": "fruta",
-		"img": "noImage.png"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Image_not_available.png"
 	},
 	{
 		"plu": 52696,
 		"nome": "maçã red importada",
 		"tipo": "fruta",
-		"img": "maçaRedImportada.jpg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbWsbpOwIqFHB00WLTLpncPptWfdbqhyznvg&usqp=CAU"
 	},
 	{
 		"plu": 2172,
 		"nome": "mamão formosa",
 		"tipo": "fruta",
-		"img": "mamaoFormosa.jpeg"
+		"url": "https://live.staticflickr.com/83/270420600_1112b4c18d_b.jpg"
 	},
 	{
 		"plu": 2189,
 		"nome": "mamão papaia",
 		"tipo": "fruta",
-		"img": "mamaoPapaia.webp"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Papaia_%26_Mam%C3%A3o.JPG"
 	},
 	{
 		"plu": 2196,
 		"nome": "manga haden",
 		"tipo": "fruta",
-		"img": "mangaHaden.webp"
+		"url": "https://live.staticflickr.com/7497/15900497725_279885fb4e_b.jpg"
 	},
 	{
 		"plu": 8792,
 		"nome": "manga espada bordon",
 		"tipo": "fruta",
-		"img": "noImage.png"
+		"url": "https://live.staticflickr.com/7497/15900497725_279885fb4e_b.jpg"
 	},
 	{
 		"plu": 14977,
 		"nome": "manga espada",
 		"tipo": "fruta",
-		"img": "mangaEspada.webp"
+		"url": "https://live.staticflickr.com/7497/15900497725_279885fb4e_b.jpg"
 	},
 	{
 		"plu": 46718,
 		"nome": "manga espada vermelha",
 		"tipo": "fruta",
-		"img": "mangaEspadaVermelha.webp"
+		"url": "https://live.staticflickr.com/7497/15900497725_279885fb4e_b.jpg"
 	},
 	{
 		"plu": 6125,
 		"nome": "manga ouro",
 		"tipo": "fruta",
-		"img": "mangaOuro.webp"
+		"url": "https://live.staticflickr.com/7497/15900497725_279885fb4e_b.jpg"
 	},
 	{
 		"plu": 6118,
 		"nome": "manga palmer",
 		"tipo": "fruta",
-		"img": "mangaPalmer.jpg"
+		"url": "https://live.staticflickr.com/7497/15900497725_279885fb4e_b.jpg"
 	},
 	{
 		"plu": 45421,
 		"nome": "manga picada",
 		"tipo": "fruta",
-		"img": "noImage.png"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Image_not_available.png"
 	},
 	{
 		"plu": 25898,
 		"nome": "manga rosa",
 		"tipo": "fruta",
-		"img": "mangaRosa.jpg"
+		"url": "https://live.staticflickr.com/7497/15900497725_279885fb4e_b.jpg"
 	},
 	{
 		"plu": 15677,
 		"nome": "manga tommy",
 		"tipo": "fruta",
-		"img": "mangaTommy.jpeg"
+		"url": "https://live.staticflickr.com/7497/15900497725_279885fb4e_b.jpg"
 	},
 	{
 		"plu": 57387,
 		"nome": "mangostin",
 		"tipo": "fruta",
-		"img": "mangostin.jpeg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqYmjqvTf0Xknv89uERMQP8Oepp-i258wK2KI4ypF0yKIi6zHxg2_MySgKn6mcz4dRz8U&usqp=CAU"
 	},
 	{
 		"plu": 2134,
 		"nome": "maracujá azedo",
 		"tipo": "fruta",
-		"img": "maracujaAzedo.jpeg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1TT39F2HLVZoadUoG3nnbIY1l-yxBU8ZYNg&usqp=CAU"
 	},
 	{
 		"plu": 45469,
 		"nome": "maracujá azedo polpa",
 		"tipo": "fruta",
-		"img": "noImage.png"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Image_not_available.png"
 	},
 	{
 		"plu": 1663,
 		"nome": "maracujá doce",
 		"tipo": "fruta",
-		"img": "maracujaDoce.webp"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1TT39F2HLVZoadUoG3nnbIY1l-yxBU8ZYNg&usqp=CAU"
 	},
 	{
 		"plu": 52849,
 		"nome": "melância baby",
 		"tipo": "fruta",
-		"img": "melanciaBaby.webp"
+		"url": "https://i2.pickpik.com/photos/226/289/145/water-melon-fruit-sweet-melon-preview.jpg"
 	},
 	{
 		"plu": 52856,
 		"nome": "melância baby rajada",
 		"tipo": "fruta",
-		"img": "noImage.png"
+		"url": "https://i2.pickpik.com/photos/226/289/145/water-melon-fruit-sweet-melon-preview.jpg"
 	},
 	{
 		"plu": 2219,
 		"nome": "melância",
 		"tipo": "fruta",
-		"img": "melancia.webp"
+		"url": "https://i2.pickpik.com/photos/226/289/145/water-melon-fruit-sweet-melon-preview.jpg"
 	},
 	{
 		"plu": 45506,
 		"nome": "melância picada",
 		"tipo": "fruta",
-		"img": "noImage.png"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Image_not_available.png"
 	},
 	{
 		"plu": 13888,
 		"nome": "melância un.",
 		"tipo": "fruta",
-		"img": "melancia.webp"
+		"url": "https://i2.pickpik.com/photos/226/289/145/water-melon-fruit-sweet-melon-preview.jpg"
 	},
 	{
 		"plu": 11082,
 		"nome": "melão amarelo",
 		"tipo": "fruta",
-		"img": "melaoAmarelo.jpeg"
+		"url": "https://live.staticflickr.com/84/270420606_ffc768db8a_b.jpg"
 	},
 	{
 		"plu": 53754,
 		"nome": "melão cepi",
 		"tipo": "fruta",
-		"img": "melaoCepi.png"
+		"url": "https://live.staticflickr.com/84/270420606_ffc768db8a_b.jpg"
 	},
 	{
 		"plu": 39581,
 		"nome": "melão gália",
 		"tipo": "fruta",
-		"img": "melaoGalia.jpg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3cCZ_EGM5JzcE86GMGxV5OE_MH7eoEMTLg&usqp=CAU"
 	},
 	{
 		"plu": 30496,
 		"nome": "melão orange",
 		"tipo": "fruta",
-		"img": "melaoOrange.webp"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU57kDk3j02wioH_4T1HUorOStHKuT-Li7JA&usqp=CAU"
 	},
 	{
 		"plu": 42697,
 		"nome": "melão pele de sapo",
 		"tipo": "fruta",
-		"img": "melaoPeleSapo.jpg"
+		"url": "https://pixnio.com/free-images/2018/12/04/2018-12-04-16-57-29.jpg"
 	},
 	{
 		"plu": 45445,
 		"nome": "melão picado",
 		"tipo": "fruta",
-		"img": "noImage.png"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Image_not_available.png"
 	},
 	{
 		"plu": 32797,
 		"nome": "melão rei",
 		"tipo": "fruta",
-		"img": "melaoRei.webp"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbm7iIqdoS7hLek-adg83aPNqo7_fEZ9-90A&usqp=CAU"
 	},
 	{
 		"plu": 27212,
 		"nome": "mexerica carioca",
 		"tipo": "fruta",
-		"img": "mexericaCarioca.webp"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mandarine.jpg"
 	},
 	{
 		"plu": 7948,
 		"nome": "mexerica cravo",
 		"tipo": "fruta",
-		"img": "mexericaCravo.jpg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mandarine.jpg"
 	},
 	{
 		"plu": 42451,
 		"nome": "mexerica dekopon",
 		"tipo": "fruta",
-		"img": "mexericaDekopon.webp"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mandarine.jpg"
 	},
 	{
 		"plu": 80255,
 		"nome": "mexerica importada",
 		"tipo": "fruta",
-		"img": "mexericaImportada.webp"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mandarine.jpg"
 	},
 	{
 		"plu": 14243,
 		"nome": "mexerica murcote",
 		"tipo": "fruta",
-		"img": "mexericaMurcote.jpg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mandarine.jpg"
 	},
 	{
 		"plu": 7924,
 		"nome": "mexerica ponkan",
 		"tipo": "fruta",
-		"img": "mexericaPonkan.jpeg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mandarine.jpg"
 	},
 	{
 		"plu": 6811,
 		"nome": "mexerica verona",
 		"tipo": "fruta",
-		"img": "mexericaVerona.jpeg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mandarine.jpg"
 	},
 	{
 		"plu": 10764,
 		"nome": "nectarina importada",
 		"tipo": "fruta",
-		"img": "nectarinaImportada.jpg"
+		"url": "https://live.staticflickr.com/99/270435535_777ea79782_b.jpg"
 	},
 	{
 		"plu": 1786,
 		"nome": "nectarina",
 		"tipo": "fruta",
-		"img": "nectarina.jpg"
+		"url": "https://live.staticflickr.com/99/270435535_777ea79782_b.jpg"
 	},
 	{
 		"plu": 91336,
 		"nome": "noni",
 		"tipo": "fruta",
-		"img": "noni.jpg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Noni_em_Imperatriz_MA.JPG"
 	},
 	{
 		"plu": 52016,
 		"nome": "pera danjou",
 		"tipo": "fruta",
-		"img": "peraDanjou.jpg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/D%27anjou_pear.jpg"
 	},
 	{
 		"plu": 243312,
 		"nome": "pera forelle",
 		"tipo": "fruta",
-		"img": "peraForelle.jpg"
+		"url": "https://i0.hippopx.com/photos/968/722/563/pera-fruit-foods-food-preview.jpg"
 	},
 	{
 		"plu": 52818,
 		"nome": "pera packham",
 		"tipo": "fruta",
-		"img": "peraPackham.jpg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Pear_peckham_78.jpg"
 	},
 	{
 		"plu": 5517,
 		"nome": "pera portuguesa",
 		"tipo": "fruta",
-		"img": "peraPortuguesa.jpg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/d/de/P%C3%AAra_amarela.JPG"
 	},
 	{
 		"plu": 29698,
 		"nome": "pera red",
 		"tipo": "fruta",
-		"img": "peraRed.jpg"
+		"url": "https://i1.pickpik.com/photos/287/350/446/pears-red-branch-pyrus-communis-preview.jpg"
 	},
 	{
 		"plu": 161,
 		"nome": "pera willians",
 		"tipo": "fruta",
-		"img": "peraWillians.jpg"
+		"url": "https://i0.hippopx.com/photos/484/496/2/food-fresh-fruit-green-preview.jpg"
 	},
 	{
 		"plu": 12577,
 		"nome": "pêssego importado",
 		"tipo": "fruta",
-		"img": "pessegoImportado.webp"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYJ97Ex7reICWIjoxkPnp7heJuGIBdyBBmgW-gN57f2ChJfQVORNhHKuUjd029FPFKyd0&usqp=CAU"
 	},
 	{
 		"plu": 8822,
 		"nome": "pêssego",
 		"tipo": "fruta",
-		"img": "pessego.jpg"
+		"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYJ97Ex7reICWIjoxkPnp7heJuGIBdyBBmgW-gN57f2ChJfQVORNhHKuUjd029FPFKyd0&usqp=CAU"
 	},
 	{
 		"plu": 19682,
 		"nome": "atemoia",
 		"tipo": "fruta",
-		"img": "atemoia.jpeg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Webysther_20150411131320_-_Atemoya.jpg"
 	},
 	{
 		"plu": 52337,
 		"nome": "pitaya",
 		"tipo": "fruta",
-		"img": "pitaya.webp"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Pitaya_cross_section_ed2.jpg"
 	},
 	{
 		"plu": 10238,
 		"nome": "romã",
 		"tipo": "fruta",
-		"img": "roma.webp"
+		"url": "https://vegan.rocks/blog/health-benefits-of-pomegranate/feature_hu766430747cd980f6c90fd24a8b647033_85181_1200x1200_fill_q100_box_smart1.jpg"
 	},
 	{
 		"plu": 15790,
 		"nome": "uva brasil",
 		"tipo": "fruta",
-		"img": "uvaBrasil.jpg"
+		"url": "https://live.staticflickr.com/3487/3249873303_63062749c1_b.jpg"
 	},
 	{
 		"plu": 50197,
 		"nome": "uva crimson",
 		"tipo": "fruta",
-		"img": "uvaCrimson.jpg"
+		"url": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pdwatercolorfruitbatch1-1207-gloy_3.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=14fdb06845baa28a47451977586266bd"
 	},
 	{
 		"plu": 2301,
 		"nome": "uva itália",
 		"tipo": "fruta",
-		"img": "uvaItalia.jpeg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Uva_It%C3%A1lia.jpg"
 	},
 	{
 		"plu": 13673,
 		"nome": "uva niagara",
 		"tipo": "fruta",
-		"img": "uvaNiagara.jpeg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Uvas_Niagara_Rosada%2C_Paran%C3%A1.2.jpg"
 	},
 	{
 		"plu": 8716,
 		"nome": "uva rubi",
 		"tipo": "fruta",
-		"img": "uvaRubi.webp"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Uvas_Niagara_Rosada%2C_Paran%C3%A1.2.jpg"
 	},
 	{
 		"plu": 6521,
 		"nome": "uva thompson chilena",
 		"tipo": "fruta",
-		"img": "noImage.png"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Uvas_Niagara_Rosada%2C_Paran%C3%A1.2.jpg"
 	},
 	{
 		"plu": 407519,
 		"nome": "maçã t. mônica 1kg.",
 		"tipo": "fruta",
-		"img": "maçaTurmaMonica.jpg"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Image_not_available.png"
 	},
 	{
 		"plu": 243505,
 		"nome": "carambola/Ramiro 300g.",
 		"tipo": "fruta",
-		"img": "noImage.png"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Image_not_available.png"
 	},
 	{
 		"plu": 242176,
 		"nome": "morango/Safra Nova 200g. cumb.",
 		"tipo": "fruta",
-		"img": "noImage.png"
+		"url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Image_not_available.png"
 	},
 	{
 		"plu": 2639,
 		"nome": "abóbora italiana",
 		"tipo": "legume",
-		"img": "abobora.jpg"
+		"url": "abobora.jpg"
 	},
 	{
 		"plu": 1946,
 		"nome": "abóbora japonesa",
 		"tipo": "legume",
-		"img": "aboboraJaponesa.jpeg"
+		"url": "aboboraJaponesa.jpeg"
 	},
 	{
 		"plu": 1992,
 		"nome": "abóbora moranga",
 		"tipo": "legume",
-		"img": "aboboraMoranga.webp"
+		"url": "aboboraMoranga.webp"
 	},
 	{
 		"plu": 1939,
 		"nome": "abóbora paulista",
 		"tipo": "legume",
-		"img": "aboboraPaulista.jpg"
+		"url": "aboboraPaulista.jpg"
 	},
 	{
 		"plu": 1953,
 		"nome": "abóbora seca",
 		"tipo": "legume",
-		"img": "aboboraSeca.jpg"
+		"url": "aboboraSeca.jpg"
 	},
 	{
 		"plu": 66396,
 		"nome": "alho",
 		"tipo": "legume",
-		"img": "alho.png"
+		"url": "alho.png"
 	},
 	{
 		"plu": 2653,
 		"nome": "batata doce branca",
 		"tipo": "legume",
-		"img": "batataDoceBranca.jpg"
+		"url": "batataDoceBranca.jpg"
 	},
 	{
 		"plu": 7528,
 		"nome": "batata doce rosada",
 		"tipo": "legume",
-		"img": "batataDoceRosada.jpg"
+		"url": "batataDoceRosada.jpg"
 	},
 	{
 		"plu": 2158,
 		"nome": "batata escovada",
 		"tipo": "legume",
-		"img": "batataEscovada.jpeg"
+		"url": "batataEscovada.jpeg"
 	},
 	{
 		"plu": 7511,
 		"nome": "batata lavada",
 		"tipo": "legume",
-		"img": "batataLavada.jpeg"
+		"url": "batataLavada.jpeg"
 	},
 	{
 		"plu": 13444,
 		"nome": "batata yacon",
 		"tipo": "legume",
-		"img": "batataYacon.jpeg"
+		"url": "batataYacon.jpeg"
 	},
 	{
 		"plu": 13819,
 		"nome": "berinjela",
 		"tipo": "legume",
-		"img": "berinjela.jpg"
+		"url": "berinjela.jpg"
 	},
 	{
 		"plu": 13765,
 		"nome": "beterraba",
 		"tipo": "legume",
-		"img": "beterraba.jpeg"
+		"url": "beterraba.jpeg"
 	},
 	{
 		"plu": 2677,
 		"nome": "cará",
 		"tipo": "legume",
-		"img": "cara.webp"
+		"url": "cara.webp"
 	},
 	{
 		"plu": 7696,
 		"nome": "cebola argentina",
 		"tipo": "legume",
-		"img": "cebolaArgentina.jpg"
+		"url": "cebolaArgentina.jpg"
 	},
 	{
 		"plu": 8853,
 		"nome": "cebola nacional",
 		"tipo": "legume",
-		"img": "cebolaNacional.jpg"
+		"url": "cebolaNacional.jpg"
 	},
 	{
 		"plu": 3773,
 		"nome": "cebola pequena",
 		"tipo": "legume",
-		"img": "cebolaPequena.jpg"
+		"url": "cebolaPequena.jpg"
 	},
 	{
 		"plu": 48866,
 		"nome": "cebola roxa",
 		"tipo": "legume",
-		"img": "cebolaRoxa.jpeg"
+		"url": "cebolaRoxa.jpeg"
 	},
 	{
 		"plu": 13772,
 		"nome": "cenoura",
 		"tipo": "legume",
-		"img": "cenoura.jpg"
+		"url": "cenoura.jpg"
 	},
 	{
 		"plu": 2813,
 		"nome": "chuchu",
 		"tipo": "legume",
-		"img": "chuchu.jpg"
+		"url": "chuchu.jpg"
 	},
 	{
 		"plu": 7702,
 		"nome": "gengibre",
 		"tipo": "legume",
-		"img": "gengibre.jpeg"
+		"url": "gengibre.jpeg"
 	},
 	{
 		"plu": 2707,
 		"nome": "inhame",
 		"tipo": "legume",
-		"img": "inhame.jpg"
+		"url": "inhame.jpg"
 	},
 	{
 		"plu": 2691,
 		"nome": "jiló",
 		"tipo": "legume",
-		"img": "jilo.jpg"
+		"url": "jilo.jpg"
 	},
 	{
 		"plu": 2714,
 		"nome": "mandioca",
 		"tipo": "legume",
-		"img": "mandioca.jpg"
+		"url": "mandioca.jpg"
 	},
 	{
 		"plu": 2721,
 		"nome": "mandioquinha",
 		"tipo": "legume",
-		"img": "mandioquinha.jpeg"
+		"url": "mandioquinha.jpeg"
 	},
 	{
 		"plu": 2837,
 		"nome": "maxixe",
 		"tipo": "legume",
-		"img": "maxixe.jpg"
+		"url": "maxixe.jpg"
 	},
 	{
 		"plu": 1762,
 		"nome": "milho verde",
 		"tipo": "legume",
-		"img": "milhoVerde.jpg"
+		"url": "milhoVerde.jpg"
 	},
 	{
 		"plu": 8068,
 		"nome": "pepino caipira",
 		"tipo": "legume",
-		"img": "pepinoCaipira.webp"
+		"url": "pepinoCaipira.webp"
 	},
 	{
 		"plu": 2738,
 		"nome": "pepino comum",
 		"tipo": "legume",
-		"img": "pepinoComum.jpg"
+		"url": "pepinoComum.jpg"
 	},
 	{
 		"plu": 8082,
 		"nome": "pepino japonês",
 		"tipo": "legume",
-		"img": "pepinoJapones.webp"
+		"url": "pepinoJapones.webp"
 	},
 	{
 		"plu": 2745,
 		"nome": "pimenta americana",
 		"tipo": "legume",
-		"img": "pimentaAmericana.jpeg"
+		"url": "pimentaAmericana.jpeg"
 	},
 	{
 		"plu": 14014,
 		"nome": "pimenta cambuci",
 		"tipo": "legume",
-		"img": "pimentaCambuci.jpg"
+		"url": "pimentaCambuci.jpg"
 	},
 	{
 		"plu": 25430,
 		"nome": "pimenta malagueta",
 		"tipo": "legume",
-		"img": "pimentaMalagueta.jpg"
+		"url": "pimentaMalagueta.jpg"
 	},
 	{
 		"plu": 52573,
 		"nome": "pimenta verde",
 		"tipo": "legume",
-		"img": "pimentaVerde.jpg"
+		"url": "pimentaVerde.jpg"
 	},
 	{
 		"plu": 8914,
 		"nome": "pimenta vermelha",
 		"tipo": "legume",
-		"img": "pimentaVermelha.jpg"
+		"url": "pimentaVermelha.jpg"
 	},
 	{
 		"plu": 5142,
 		"nome": "pimentão amarelo",
 		"tipo": "legume",
-		"img": "pimentaoAmarelo.jpeg"
+		"url": "pimentaoAmarelo.jpeg"
 	},
 	{
 		"plu": 32353,
 		"nome": "pimentão misto",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"url": "noImage.png"
 	},
 	{
 		"plu": 53464,
 		"nome": "pimentão verde fat.",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"url": "noImage.png"
 	},
 	{
 		"plu": 2752,
 		"nome": "pimentão verde",
 		"tipo": "legume",
-		"img": "pimentaoVerde.jpeg"
+		"url": "pimentaoVerde.jpeg"
 	},
 	{
 		"plu": 2769,
 		"nome": "pimentão vermelho",
 		"tipo": "legume",
-		"img": "pimentaoVermelho.jpeg"
+		"url": "pimentaoVermelho.jpeg"
 	},
 	{
 		"plu": 1816,
 		"nome": "pinhão",
 		"tipo": "legume",
-		"img": "pinhao.jpg"
+		"url": "pinhao.jpg"
 	},
 	{
 		"plu": 1816,
 		"nome": "quiabo",
 		"tipo": "legume",
-		"img": "quiabo.jpeg"
+		"url": "quiabo.jpeg"
 	},
 	{
 		"plu": 5609,
 		"nome": "tomate molho",
 		"tipo": "legume",
-		"img": "tomateMolho.png"
+		"url": "tomateMolho.png"
 	},
 	{
 		"plu": 49535,
 		"nome": "tomate netuno",
 		"tipo": "legume",
-		"img": "tomateNetuno.webp"
+		"url": "tomateNetuno.webp"
 	},
 	{
 		"plu": 13758,
 		"nome": "tomate salada",
 		"tipo": "legume",
-		"img": "tomateSalada.webp"
+		"url": "tomateSalada.webp"
 	},
 	{
 		"plu": 15257,
 		"nome": "vagem macarrão",
 		"tipo": "legume",
-		"img": "vagemMacarrao.jpg"
+		"url": "vagemMacarrao.jpg"
 	},
 	{
 		"plu": 25812,
 		"nome": "ingr. yakisoba",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"url": "noImage.png"
 	},
 	{
 		"plu": 213371,
 		"nome": "mix abóbora jap/quiabo",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"url": "noImage.png"
 	},
 	{
 		"plu": 213375,
 		"nome": "mix alho poró picado",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"url": "noImage.png"
 	},
 	{
 		"plu": 49177,
 		"nome": "mix beterraba/cenoura",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"url": "noImage.png"
 	},
 	{
 		"plu": 213342,
 		"nome": "mix chuchu/cenou/beterr.",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"url": "noImage.png"
 	},
 	{
 		"plu": 213345,
 		"nome": "mix chuchu/mandioquinha",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"url": "noImage.png"
 	},
 	{
 		"plu": 7801,
 		"nome": "mix de legumes",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"url": "noImage.png"
 	},
 	{
 		"plu": 32292,
 		"nome": "sopão",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"url": "noImage.png"
 	},
 	{
 		"plu": 46343,
 		"nome": "vinagrete",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"url": "noImage.png"
 	},
 	{
 		"plu": 242171,
 		"nome": "safra nova/tomatinho 180g.",
 		"tipo": "legume",
-		"img": "noImage.png"
+		"url": "noImage.png"
 	}
 ]
