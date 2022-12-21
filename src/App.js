@@ -7,9 +7,9 @@ function App() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route exact path="/hortfruti" component={Home} /> 
-        <Route exact path="/frutas" component={Frutas} /> 
-        <Route exact path="/legumes" component={Legumes} /> 
+        <Route path="/hortfruti" component={Home} /> 
+        <Route path="/frutas" component={Frutas} /> 
+        <Route path="/legumes" component={Legumes} /> 
       </Switch>
     </BrowserRouter>
   );
