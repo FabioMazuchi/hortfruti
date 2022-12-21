@@ -27,8 +27,8 @@ function Legumes() {
 				</form>
 				<h1><span>🍅 </span>Legumes <span>🥕</span></h1>
 				<section>
-					{legumes.map(({ nome, img, plu, tipo }) => (
-						<Card nome={nome} img={img} plu={plu} tipo={tipo}/>
+					{legumes.map(({ nome, url, plu }) => (
+						<Card nome={nome} url={url} plu={plu} />
 					))}
 				</section>
 			</main>
