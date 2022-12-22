@@ -14,7 +14,7 @@ function Frutas() {
 
 	useEffect(() => {
 		setFrutas(getFrutas())
-		const filterFrutas = () => setFrutas(frutas.filter(({nome: n}) => n.includes(nome)))
+		const filterFrutas = () => setFrutas(frutas.filter(({nome: n}) => n.includes(nome.toLowerCase())))
 		if (nome !== '') filterFrutas();
 	}, [nome])
 	

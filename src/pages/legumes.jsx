@@ -13,7 +13,7 @@ function Legumes() {
 	}
 
 	useEffect(() => {
-		const filterLegumes = () => setLegumes(legumes.filter(({nome: n}) => n.includes(nome)))
+		const filterLegumes = () => setLegumes(legumes.filter(({nome: n}) => n.includes(nome.toLowerCase())))
 		setLegumes(getLegumes())
 		if (nome !== '') filterLegumes();
 	}, [nome])
