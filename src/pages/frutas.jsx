@@ -6,16 +6,20 @@ import { getFrutas } from "../helpers";
 
 function Frutas() {
 	const [frutas, setFrutas] = useState([]);
+	const [filter, setFilter] = useState([]);
 	const [nome, setNome] = useState('');
 
-	const handleChange = ({target}) => {
-		setNome(target.value);
-	}
+	useEffect(() => {
+		setFilter(getFrutas())
+	}, [])
 
 	useEffect(() => {
-		setFrutas(getFrutas())
-		const filterFrutas = () => setFrutas(frutas.filter(({nome: n}) => n.includes(nome.toLowerCase())))
-		if (nome !== '') filterFrutas();
+		const filterFrutas = () => setFrutas(filter.filter(({nome: n}) => n.includes(nome.toLowerCase())))
+		if (nome === '') {
+			setFrutas(getFrutas())
+		}  else {
+			filterFrutas()
+		}
 	}, [nome])
 	
 	return (
@@ -23,7 +27,7 @@ function Frutas() {
 			<Header />
 			<main className="content">
 				<form>
-					<input value={nome} onChange={handleChange} type="text" />
+					<input value={nome} onChange={({target}) => setNome(target.value)} type="text" />
 					<p>🔎 Pesquisar fruta...</p>
 				</form>
 				<h1><span>🍍 </span>Frutas <span>🍉</span></h1>

@@ -6,23 +6,28 @@ import { getLegumes } from "../helpers";
 
 function Legumes() {
 	const [legumes, setLegumes] = useState([]);
+	const [filter, setFilter] = useState([]);
 	const [nome, setNome] = useState('');
 
-	const handleChange = ({target}) => {
-		setNome(target.value);
-	}
+	useEffect(() => {
+		setFilter(getLegumes())
+	}, [])
 
 	useEffect(() => {
-		const filterLegumes = () => setLegumes(legumes.filter(({nome: n}) => n.includes(nome.toLowerCase())))
-		setLegumes(getLegumes())
-		if (nome !== '') filterLegumes();
+		const filterLegumes = () => setLegumes(filter.filter(({nome: n}) => n.includes(nome.toLowerCase())))
+		if (nome === '') {
+			setLegumes(getLegumes());
+		} else {
+			filterLegumes();
+		} 
 	}, [nome])
+
 	return (
 		<>
 			<Header />
 			<main className="content">
 			<form>
-					<input value={nome} onChange={handleChange} type="text" />
+					<input value={nome} onChange={({target}) => setNome(target.value)} type="text" />
 					<p>🔎 Pesquisar legume...</p>
 				</form>
 				<h1><span>🍅 </span>Legumes <span>🥕</span></h1>
