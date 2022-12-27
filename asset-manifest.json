@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hortfruti/static/css/main.a7ddc0e5.css",
-    "main.js": "/hortfruti/static/js/main.a44fbe84.js",
+    "main.js": "/hortfruti/static/js/main.8698a9fb.js",
     "index.html": "/hortfruti/index.html",
     "main.a7ddc0e5.css.map": "/hortfruti/static/css/main.a7ddc0e5.css.map",
-    "main.a44fbe84.js.map": "/hortfruti/static/js/main.a44fbe84.js.map"
+    "main.8698a9fb.js.map": "/hortfruti/static/js/main.8698a9fb.js.map"
   },
   "entrypoints": [
     "static/css/main.a7ddc0e5.css",
-    "static/js/main.a44fbe84.js"
+    "static/js/main.8698a9fb.js"
   ]
 }
