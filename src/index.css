@@ -6,11 +6,11 @@
 }
 
 body {
-  background-color: #F0F8EA;
+  background-color: #55a21a;
 }
 
 header {
-  background-color: #F0F66E;
+  background-color: #df9125;
   display: flex;
   justify-content: center;
   padding: 12px 0;
@@ -30,18 +30,18 @@ nav ul li {
 
 a {
   text-decoration: none;
-  color: #9D9C62;
+  color: white;
 }
 
 .home_section {
   margin-top: 30px;
   padding: 0 5%;
-  color: #9D9C62;
+  color: white;
 }
 
 .home_section img {
   width: 100%;
-  margin: 20px 0 200px;
+  margin: 20px 0;
 }
 
 .home_section h1 {
@@ -57,7 +57,7 @@ a {
 .content {
   margin-top: 20px;
   padding: 0 2%;
-  min-height: 600px;
+  min-height: 900px;
 }
 
 form {
@@ -72,8 +72,8 @@ form input {
   width: 100%;
   border: 0;
   font-size: 14px;
-  border-bottom: 1px solid #9D9C62;
-  color: #9D9C62;
+  border-bottom: 1px solid white;
+  color: white;
   margin-bottom: 4px;
   background-color: transparent;
   padding: 2px;
@@ -84,14 +84,14 @@ form input:focus {
 }
 
 form p {
-  color: #9D9C62;
+  color: white;
   font-size: 12px;
 }
 
 .content h1 {
   text-align: center;
   font-size: 24px;
-  color: #9D9C62;
+  color: white;
 }
 
 .content span {
@@ -107,15 +107,14 @@ form p {
 }
 
 .card {
-  background-color: #F0F8EA;
+  background-color: #f1ece5;
   align-items: center;
   width: 48%;
   padding: 3px 5px;
   display: flex;
   flex-direction: column;
   margin-bottom: 10px;
-  color: #9D9C62;
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  color: #df9125;
 }
 
 .card h3 {
@@ -138,8 +137,8 @@ footer {
   text-align: center;
   width: 100%;
   padding: 12px 0;
-  background-color: #F0F66E;
-  color: #9D9C62;
+  background-color: #df9125;
+  color: white;
   font-size: 12px;
 }
 
