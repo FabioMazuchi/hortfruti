@@ -34,9 +34,14 @@ a {
 }
 
 .home_section {
-  margin-top: 70px;
+  margin-top: 30px;
   padding: 0 5%;
   color: #9D9C62;
+}
+
+.home_section img {
+  width: 100%;
+  margin: 20px 0 200px;
 }
 
 .home_section h1 {
@@ -52,6 +57,7 @@ a {
 .content {
   margin-top: 20px;
   padding: 0 2%;
+  min-height: 600px;
 }
 
 form {
@@ -97,7 +103,7 @@ form p {
   flex-wrap: wrap;
   justify-content: space-around;
   margin-top: 20px;
-  padding-bottom: 70px;
+  padding-bottom: 20px;
 }
 
 .card {
@@ -132,8 +138,6 @@ footer {
   text-align: center;
   width: 100%;
   padding: 12px 0;
-  bottom: 0;
-  position: fixed;
   background-color: #F0F66E;
   color: #9D9C62;
   font-size: 12px;
