@@ -34,6 +34,8 @@ a {
 }
 
 .home_section {
+  display: flex;
+  flex-direction: column;
   margin-top: 30px;
   padding: 0 5%;
   color: white;
@@ -108,7 +110,7 @@ form p {
   flex-wrap: wrap;
   justify-content: space-around;
   margin-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 50px;
 }
 
 .card {
@@ -145,13 +147,25 @@ footer {
   background-color: #e13b16;
   color: white;
   font-size: 12px;
+  position: fixed;
+  bottom: 0;
 }
 
 @media screen and (min-width: 700px) {
-  body {
-    background-color: #f1ece5;
+  .home_section {
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+  }
+  .home_section img {
+    width: 50%;
+    margin: 0;
+    margin-left: 10px;
   }
 }
-
-
 

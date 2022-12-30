@@ -7,8 +7,10 @@ function Home() {
 		<>
 			<Header />
 			<section className="home_section">
-				<h1>Boas vindas ao <span>Hortfruti</span>!</h1>
-				<p>O app. onde é possível listar verduras, legumes e pesquisá-los pelo nome.</p>
+				<div>
+          <h1>Boas vindas ao <span>Hortfruti</span>!</h1>
+          <p>O app. onde é possível listar verduras, legumes e pesquisá-los pelo nome.</p>
+        </div>
 				<img src={hortfruti} alt="Hortfruti"/>
 			</section>
 			<Footer />
