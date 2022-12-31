@@ -24,7 +24,7 @@ nav ul {
 nav ul li {
   margin-right: 15px;
   text-transform: capitalize;
-  font-size: 14px;
+  font-size: 13px;
   border-radius: 12px;
 }
 
@@ -138,6 +138,55 @@ form p {
   height: 60px;
   width: 90%;
   margin: 3px 0;
+}
+
+.card form {
+  width: 100%;
+}
+
+.card form label {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  font-size: 12px;
+}
+
+.card form input {
+  width: 26%;
+  padding-left: 5px;
+  font-size: 12px;
+  border-bottom: 1px solid #e13b16;
+  color: #e13b16;
+}
+
+.card form input[type=number] {
+  margin-left: 5px;
+}
+
+.card form button {
+  border: none;
+  margin: 4px auto 0;
+  background-color: #367108;
+  width: 50%;
+  color: white;
+  padding: 2px 0;
+  font-size: 11px;
+  border-radius: 9px;
+}
+
+.etiquetas-plu {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.etiquetas-plu button {
+  border: none;
+  background-color: #e13b16;
+  color: white;
+  padding: 2px 6px;
+  font-size: 10px;
+  border-radius: 9px;
 }
 
 footer {

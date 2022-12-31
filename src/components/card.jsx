@@ -1,9 +1,23 @@
+import { useState } from "react";
+import Form from "./form";
+
 function Card({ nome, url, plu }) {
+	const [form, setForm] = useState(false);
+
+	const exibeForm = () => {
+		setForm(!form);
+	}
+
 	return (
 		<div className="card">
 			<h3>{nome}</h3>
-			<img src={url} alt={nome}/>
-			<h4>PLU {plu}</h4>
+			{form ? (
+				<Form nome={nome} plu={plu} form={form} setForm={setForm}/>
+			) : <img src={url} alt={nome}/>}
+			<div className="etiquetas-plu">
+				<h4>{plu}</h4>
+				<button onClick={() => exibeForm()}>Etiquetas</button>
+			</div>
 		</div>
 	)
 }
