@@ -192,7 +192,7 @@ form p {
   flex-direction: column;
 }
 
-.etiquetas div {
+.etiquetas label {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -208,9 +208,9 @@ form p {
   background-color: rgb(35, 225, 67);
 }
 
-.etiquetas div p {
+.etiquetas label p {
   font-size: 13px;
-  max-width: 22ch;
+  max-width: 33ch;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;

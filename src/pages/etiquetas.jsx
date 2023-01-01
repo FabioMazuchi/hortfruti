@@ -26,16 +26,16 @@ export default function Etiquetas() {
 					<h1>Etiquetas <span>🏷️</span></h1>
 					<section className="etiquetas">
 						{ofertas.map(({quantidade, nome, plu}) => (
-							<div className="oferta">
-								<p>{quantidade} - <strong>{ plu}</strong> {nome} </p>
-								<button>Impresso</button>
-							</div>
+							<label className="oferta">
+								<p>{quantidade} - <strong>{ plu}</strong> {nome}</p>
+									<input id="oferta" type="checkbox" />
+							</label>
 						))}
 						{normal.map(({quantidade, nome, plu}) => (
-							<div className="normal">
+							<label className="normal">
 								<p>{quantidade} - <strong>{ plu}</strong> {nome}</p>
-								<button>Impresso</button>
-							</div>
+									<input id="normal" type="checkbox" />
+							</label>
 						))}
 					</section>
 			</main>
