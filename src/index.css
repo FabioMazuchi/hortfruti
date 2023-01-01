@@ -210,6 +210,10 @@ form p {
 
 .etiquetas div p {
   font-size: 13px;
+  max-width: 22ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .etiquetas div button {
