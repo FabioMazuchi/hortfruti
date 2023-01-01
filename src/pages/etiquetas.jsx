@@ -6,12 +6,17 @@ import Context from '../context/context';
 export default function Etiquetas() {
 	const { listaEtiquetas } = useContext(Context)
 	const [ofertas, setOfertas] = useState([]);
+	const [normal, setNormal] = useState([]);
 
 	useEffect(() => {
 		const findOfertas = () => {
 			setOfertas(listaEtiquetas.filter(({oferta}) => oferta));
 		}
+		const findNormal = () => {
+			setNormal(listaEtiquetas.filter(({oferta}) => !oferta));
+		}
 		findOfertas();
+		findNormal();
 	}, [])
 
 	return (
@@ -20,10 +25,15 @@ export default function Etiquetas() {
 			<main className="content">
 					<h1>Etiquetas <span>🏷️</span></h1>
 					<section className="etiquetas">
-						<h2>Ofertas</h2>
 						{ofertas.map(({quantidade, nome, plu}) => (
-							<div>
-								<p>{quantidade } - {nome} <strong>{ plu}</strong></p>
+							<div className="oferta">
+								<p>{quantidade} - <strong>{ plu}</strong> {nome} </p>
+								<button>Impresso</button>
+							</div>
+						))}
+						{normal.map(({quantidade, nome, plu}) => (
+							<div className="normal">
+								<p>{quantidade} - <strong>{ plu}</strong> {nome}</p>
 								<button>Impresso</button>
 							</div>
 						))}
