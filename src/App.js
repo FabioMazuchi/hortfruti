@@ -1,9 +1,9 @@
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Provider from "./context/provider";
-import Etiquetas from "./pages/etiquetas";
 import Frutas from "./pages/frutas";
 import Home from "./pages/home";
 import Legumes from "./pages/legumes";
+import Preços from "./pages/preços";
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
           <Route path="/hortfruti" component={Home} /> 
           <Route path="/frutas" component={Frutas} /> 
           <Route path="/legumes" component={Legumes} /> 
-          <Route path="/etiquetas" component={Etiquetas} /> 
+          <Route path="/preços" component={Preços} /> 
         </Switch>
       </BrowserRouter>
     </Provider>

@@ -72,7 +72,7 @@ form {
   flex-direction: column;
   justify-content: center;
   margin:0 auto 10px;
-  width: 50%;
+  width: 60%;
 }
 
 form input {
@@ -113,11 +113,18 @@ form p {
   padding-bottom: 50px;
 }
 
+.content h4 {
+  text-align: center;
+  margin-top: 10px;
+  color: white;
+  font-weight: lighter;
+}
+
 .card {
   background-color: #f1ece5;
   align-items: center;
   width: 48%;
-  padding: 3px 5px;
+  padding: 3px 5px 5px;
   display: flex;
   flex-direction: column;
   margin-bottom: 10px;
@@ -181,10 +188,15 @@ form p {
   width: 100%;
 }
 
+.etiquetas-plu h4 {
+  margin: 0;
+  color: #e13b16;
+  font-weight: bold;
+}
+
 .etiquetas-plu button {
   border: none;
-  font-size: 16px;
-  border-radius: 50%;
+  font-size: 14px;
 }
 
 .etiquetas {
@@ -196,7 +208,7 @@ form p {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 4px;
+  padding: 6px;
   margin-bottom: 5px;
 }
 
@@ -209,11 +221,12 @@ form p {
 }
 
 .etiquetas label p {
-  font-size: 13px;
+  font-size: 14px;
   max-width: 33ch;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  text-transform: capitalize;
 }
 
 .etiquetas div button {

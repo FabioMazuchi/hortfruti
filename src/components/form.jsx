@@ -14,12 +14,13 @@ export default function Form({ nome, plu, form, setForm }) {
 		e.preventDefault();
 		setListaEtiquetas( [...listaEtiquetas, { quantidade, oferta, nome, plu }])
 		exibeForm();
+		window.alert('Preço adicionado com sucesso!')
 	}
 
 	return (
 		<form>
 			<label for="quantidade">
-				Qtd. etiquetas:
+				Quantidade:
 				<input value={quantidade} onChange={({target}) => setQuantidade(Number(target.value))} id="quantidade" type="number" min="1"/>
 			</label>
 			<label for="oferta">

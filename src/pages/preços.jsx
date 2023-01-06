@@ -3,7 +3,7 @@ import Footer from "../components/footer";
 import Header from "../components/header";
 import Context from '../context/context';
 
-export default function Etiquetas() {
+export default function Preços() {
 	const { listaEtiquetas } = useContext(Context)
 	const [ofertas, setOfertas] = useState([]);
 	const [normal, setNormal] = useState([]);
@@ -23,7 +23,8 @@ export default function Etiquetas() {
 		<>
 			<Header/>
 			<main className="content">
-					<h1>Etiquetas <span>🏷️</span></h1>
+					<h1>Preços <span>💲</span></h1>
+					{listaEtiquetas.length !== 0 ? (
 					<section className="etiquetas">
 						{ofertas.map(({quantidade, nome, plu}) => (
 							<label className="oferta">
@@ -38,6 +39,9 @@ export default function Etiquetas() {
 							</label>
 						))}
 					</section>
+					):
+						<h4>Você não tem preços para imprimir!</h4>
+					}
 			</main>
 			<Footer/>
 		</>
