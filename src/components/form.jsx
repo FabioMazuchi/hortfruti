@@ -25,7 +25,7 @@ export default function Form({ nome, plu, form, setForm }) {
 			</label>
 			<label for="oferta">
 				Oferta:
-			<input value={oferta} onChange={({target}) => setOferta(target.checked)} id="oferta" type="checkbox" />
+				<input value={oferta} onChange={({target}) => setOferta(target.checked)} id="oferta" type="checkbox" />
 			</label>
 		<button onClick={(e) => adicionar(e) }>Adicionar</button>
 	</form>
