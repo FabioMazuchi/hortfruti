@@ -67,7 +67,7 @@ a {
 .content {
   margin-top: 60px;
   padding: 0 2%;
-  min-height: 900px;
+  min-height: 600px;
 }
 
 form {
@@ -127,7 +127,7 @@ form p {
   background-color: white;
   align-items: center;
   width: 48%;
-  padding: 3px 3px 6px;
+  padding: 4px 4px 6px;
   display: flex;
   flex-direction: column;
   margin-bottom: 10px;
@@ -175,7 +175,7 @@ form p {
 }
 
 .card form input[type=checkbox] {
-  margin-left: -8px;
+  margin: -8px;
 }
 
 .card form button {
@@ -203,9 +203,8 @@ form p {
   font-weight: bold;
 }
 
-.etiquetas-plu button {
-  border: none;
-  font-size: 14px;
+.etiquetas-plu span {
+  font-size: 15px;
 }
 
 .etiquetas {
@@ -247,6 +246,21 @@ footer {
   font-size: 12px;
   position: fixed;
   bottom: 0;
+}
+
+@media screen and (max-width: 280px) {
+  .home_section {
+    margin-bottom: 15px;
+  }
+  footer p {
+    font-size: 10px;
+  }
+  .card form button {
+    width: 80%;
+  }
+  .card form input[type=checkbox] {
+    margin: -3px;
+  }
 }
 
 @media screen and (min-width: 700px) {

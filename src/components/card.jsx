@@ -16,7 +16,7 @@ function Card({ nome, url, plu }) {
 			) : <img src={url} alt={nome}/>}
 			<div className="etiquetas-plu">
 				<h4>{plu}</h4>
-				<button onClick={() => exibeForm()}>💲</button>
+				<span onClick={() => exibeForm()}>💲</span>
 			</div>
 		</div>
 	)
