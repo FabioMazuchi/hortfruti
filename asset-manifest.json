@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/hortfruti/static/css/main.a93df5d5.css",
-    "main.js": "/hortfruti/static/js/main.2349d05a.js",
-    "static/media/hortfruti.jpg": "/hortfruti/static/media/hortfruti.0e72c5b3a9074a4a5bd9.jpg",
+    "main.css": "/hortfruti/static/css/main.254bef46.css",
+    "main.js": "/hortfruti/static/js/main.95a69016.js",
+    "static/media/hortfruti.jpg": "/hortfruti/static/media/hortfruti.6a9db3db7fa39c05ec74.jpg",
     "index.html": "/hortfruti/index.html",
-    "main.a93df5d5.css.map": "/hortfruti/static/css/main.a93df5d5.css.map",
-    "main.2349d05a.js.map": "/hortfruti/static/js/main.2349d05a.js.map"
+    "main.254bef46.css.map": "/hortfruti/static/css/main.254bef46.css.map",
+    "main.95a69016.js.map": "/hortfruti/static/js/main.95a69016.js.map"
   },
   "entrypoints": [
-    "static/css/main.a93df5d5.css",
-    "static/js/main.2349d05a.js"
+    "static/css/main.254bef46.css",
+    "static/js/main.95a69016.js"
   ]
 }
