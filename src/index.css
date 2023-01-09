@@ -10,7 +10,7 @@ body {
 }
 
 header {
-  background-color: #e11616;
+  background-color: #29520a;
   display: flex;
   justify-content: center;
   padding: 12px 0;
@@ -241,7 +241,7 @@ footer {
   text-align: center;
   width: 100%;
   padding: 12px 0;
-  background-color: #e11616;
+  background-color: #29520a;
   color: white;
   font-size: 12px;
 }
