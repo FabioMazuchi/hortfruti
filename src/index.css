@@ -205,6 +205,7 @@ form p {
 
 .etiquetas-plu span {
   font-size: 15px;
+  cursor: pointer;
 }
 
 .etiquetas {
