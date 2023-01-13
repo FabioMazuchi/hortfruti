@@ -1,11 +1,12 @@
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import Card from "../components/card";
 import Footer from "../components/footer";
 import Header from "../components/header";
 import { getFrutas } from "../helpers";
+import Context from '../context/context';
 
 function Frutas() {
-	const [frutas, setFrutas] = useState([]);
+	const {frutas, setFrutas} = useContext(Context);
 	const [filter, setFilter] = useState([]);
 	const [nome, setNome] = useState('');
 
@@ -32,8 +33,8 @@ function Frutas() {
 				</form>
 				<h1><span>🍍 </span>Frutas <span>🍉</span></h1>
 				<section>
-					{frutas.map(({ nome, url, plu }) => (
-						<Card nome={nome} url={url} plu={plu} />
+					{frutas.map(({ nome, url, plu, listPreço }) => (
+						<Card nome={nome} url={url} plu={plu} listPreço={listPreço}/>
 					))}
 				</section>
 			</main>

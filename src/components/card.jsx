@@ -1,7 +1,8 @@
 import { useState } from "react";
 import Form from "./form";
 
-function Card({ nome, url, plu }) {
+function Card({ nome, url, plu, listPreço }) {
+	console.log(listPreço);
 	const [form, setForm] = useState(false);
 
 	const exibeForm = () => {
@@ -12,7 +13,7 @@ function Card({ nome, url, plu }) {
 		<div className="card">
 			<h3>{nome}</h3>
 			{form ? (
-				<Form nome={nome} plu={plu} form={form} setForm={setForm}/>
+				<Form nome={nome} plu={plu} form={form} setForm={setForm} listPreço={listPreço} />
 			) : <img src={url} alt={nome}/>}
 			<div className="etiquetas-plu">
 				<h4>{plu}</h4>

@@ -130,9 +130,18 @@ form p {
   padding: 4px 4px 6px;
   display: flex;
   flex-direction: column;
+  justify-content: space-evenly;
   margin-bottom: 10px;
   color: #29520a;
   box-shadow: rgba(0, 0, 0, 0.5) 0px 3px 6px, rgba(0, 0, 0, 0.5) 0px 3px 6px;
+}
+
+.card p {
+  font-size: 13px;
+  text-align: center;
+  margin: 8px 0;
+  color: #e11616;
+  line-height: 14px;
 }
 
 .card h3 {

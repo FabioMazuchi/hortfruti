@@ -1,11 +1,12 @@
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import Card from "../components/card";
 import Footer from "../components/footer";
 import Header from "../components/header";
+import Context from "../context/context";
 import { getLegumes } from "../helpers";
 
 function Legumes() {
-	const [legumes, setLegumes] = useState([]);
+	const {legumes, setLegumes} = useContext(Context);
 	const [filter, setFilter] = useState([]);
 	const [nome, setNome] = useState('');
 
@@ -32,8 +33,8 @@ function Legumes() {
 				</form>
 				<h1><span>🍅 </span>Legumes <span>🥕</span></h1>
 				<section>
-					{legumes.map(({ nome, url, plu }) => (
-						<Card nome={nome} url={url} plu={plu} />
+					{legumes.map(({ nome, url, plu, listPreço }) => (
+						<Card nome={nome} url={url} plu={plu} listPreço={listPreço} />
 					))}
 				</section>
 			</main>
